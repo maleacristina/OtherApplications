@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1481552279 source:c:\users\sgr-radu\desktop\rasele de caini\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+
+1484716551 source:c:\users\asus\desktop\rasele de caini\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Caine.h"
+	"Cainecupete.h"
+	"Cainefarapete.h"
+
+1481702013 source:c:\users\asus\desktop\rasele de caini\caine.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Caine.h"
+
+1484717087 c:\users\asus\desktop\rasele de caini\caine.h
+
+1481701888 source:c:\users\asus\desktop\rasele de caini\cainecupete.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Cainecupete.h"
+
+1481641304 c:\users\asus\desktop\rasele de caini\cainecupete.h
+	"Caine.h"
+
+1481641163 source:c:\users\asus\desktop\rasele de caini\cainefarapete.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Cainefarapete.h"
+
+1481641304 c:\users\asus\desktop\rasele de caini\cainefarapete.h
+	"Caine.h"
+
+1481702013 source:c:\users\asus\desktop\oop\rasele de caini\caine.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Caine.h"
+
+1481702070 c:\users\asus\desktop\oop\rasele de caini\caine.h
+
+1481701888 source:c:\users\asus\desktop\oop\rasele de caini\cainecupete.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Cainecupete.h"
+
+1481641304 c:\users\asus\desktop\oop\rasele de caini\cainecupete.h
+	"Caine.h"
+
+1481641163 source:c:\users\asus\desktop\oop\rasele de caini\cainefarapete.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Cainefarapete.h"
+
+1481641304 c:\users\asus\desktop\oop\rasele de caini\cainefarapete.h
+	"Caine.h"
+
+1484716551 source:c:\users\asus\desktop\oop\rasele de caini\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Caine.h"
+	"Cainecupete.h"
+	"Cainefarapete.h"
+
+1481702013 source:d:\oop\rasele de caini\caine.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Caine.h"
+
+1484717087 d:\oop\rasele de caini\caine.h
+
+1481701888 source:d:\oop\rasele de caini\cainecupete.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Cainecupete.h"
+
+1484725265 d:\oop\rasele de caini\cainecupete.h
+	"Caine.h"
+
+1481641163 source:d:\oop\rasele de caini\cainefarapete.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Cainefarapete.h"
+
+1481641304 d:\oop\rasele de caini\cainefarapete.h
+	"Caine.h"
+
+1484716551 source:d:\oop\rasele de caini\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	"Caine.h"
+	"Cainecupete.h"
+	"Cainefarapete.h"
+
